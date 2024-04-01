@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732398835272",
+    "project_id": "collabhub-7d114",
+    "storage_bucket": "collabhub-7d114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732398835272:android:635286f4ff15c329da6a7d",
+        "android_client_info": {
+          "package_name": "com.bsuir.collabhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBivvsDorBQ17Y4yXvfZWcDpSnp9WrFeHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
